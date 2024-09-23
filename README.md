@@ -29,4 +29,4 @@ data=data+1;
 ```
 
 # Reference
-* Guo, Xianjie, et al. "Bootstrap-based Causal Structure Learning." *Proceedings of the 31st ACM International Conference on Information & Knowledge Management* (2022).
+* Guo, Xianjie, et al. "Bootstrap-based Causal Structure Learning." *Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM'22)* (2022).
